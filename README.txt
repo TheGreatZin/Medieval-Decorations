@@ -18,4 +18,4 @@ The mod can be downloaded from CurseForge(). All the available versions are in t
 
 [Links]
 CurseForge - (https://www.curseforge.com/minecraft/mc-mods/medieval-decorations)
-Github - (https://github.com/TheGreatZin/MedievalDecorations)
+Github - (https://github.com/TheGreatZin/Medieval-Decorations)
