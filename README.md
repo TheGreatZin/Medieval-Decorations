@@ -29,6 +29,10 @@ The mod can be downloaded only from [**CurseForge**](). All the available versio
 <hr>
 </sup>
 
+<a href="https://github.com/TheGreatZin/Medieval-Decorations/blob/main/LICENSE.txt">
+<img alt="License" src="https://img.shields.io/badge/license-LGPLv3-brightgreen?style=plastic" height="22"
+</a>
+
 <a href="https://github.com/TheGreatZin/Medieval-Decorations/issues">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/TheGreatZin/Medieval-Decorations?color=FF0000&style=plastic"  height="22">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/TheGreatZin/Medieval-Decorations?color=FF0000&style=plastic" height="22">
 </a>
