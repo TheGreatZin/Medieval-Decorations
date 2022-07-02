@@ -11,6 +11,8 @@ authors="ZIN"
 description='''
 "Medieval Decorations" is a Minecraft Forge mod that adds a lot of medieval-themed decorative features to the game. The aim of the mod is to keep the Vanilla style and give it a medieval feel! In the mod you can find statues, mosaics, braziers, chairs, chandeliers, torches and much more. You can enjoy a decent amount of new building blocks and decorations.
 
+CurseForge - (https://www.curseforge.com/minecraft/mc-mods/medieval-decorations)
+Github - (https://github.com/TheGreatZin/Medieval-Decorations)
 '''
 [[dependencies.medieval_decorations]]
     modId="forge"
