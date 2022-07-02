@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"facing=north": {
+			"model": "medieval_decorations:block/barrel_of_dandelions",
+			"y": 0
+		},
+		"facing=east": {
+			"model": "medieval_decorations:block/barrel_of_dandelions",
+			"y": 90
+		},
+		"facing=south": {
+			"model": "medieval_decorations:block/barrel_of_dandelions",
+			"y": 180
+		},
+		"facing=west": {
+			"model": "medieval_decorations:block/barrel_of_dandelions",
+			"y": 270
+		}
+	}
+}

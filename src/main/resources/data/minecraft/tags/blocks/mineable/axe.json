@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"medieval_decorations:barrel_planter",
+		"#medieval_decorations:flower_barrels",
+		"#medieval_decorations:wooden_bars",
+		"#medieval_decorations:wooden_grates",
+		"#medieval_decorations:wooden_benches"
+	]
+}

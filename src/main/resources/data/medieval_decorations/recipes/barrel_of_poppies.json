@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:poppy"
+		},
+		{
+			"item": "minecraft:poppy"
+		},
+		{
+			"item": "minecraft:poppy"
+		},
+		{
+			"item": "minecraft:poppy"
+		},
+		{
+			"item": "minecraft:poppy"
+		},
+		{
+			"item": "minecraft:poppy"
+		},
+		{
+			"item": "minecraft:poppy"
+		},
+		{
+			"item": "minecraft:poppy"
+		},
+		{
+			"item": "medieval_decorations:barrel_planter"
+		}
+	],
+	"result": {
+		"item": "medieval_decorations:barrel_of_poppies",
+		"count": 1
+	}
+}

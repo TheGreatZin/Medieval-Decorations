@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stained_glass",
+  "ingredients": [
+    {
+      "item": "medieval_decorations:glass_vase_candleholder"
+    },
+    {
+      "item": "minecraft:brown_dye"
+    }
+  ],
+  "result": {
+    "item": "medieval_decorations:brown_stained_glass_vase_candleholder"
+  }
+}

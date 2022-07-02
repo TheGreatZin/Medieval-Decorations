@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:dandelion"
+		},
+		{
+			"item": "minecraft:poppy"
+		},
+		{
+			"item": "minecraft:blue_orchid"
+		},
+		{
+			"item": "minecraft:allium"
+		},
+		{
+			"item": "minecraft:azure_bluet"
+		},
+		{
+			"item": "minecraft:oxeye_daisy"
+		},
+		{
+			"item": "minecraft:lily_of_the_valley"
+		},
+		{
+			"item": "minecraft:cornflower"
+		},
+		{
+			"item": "medieval_decorations:barrel_planter"
+		}
+	],
+	"result": {
+		"item": "medieval_decorations:barrel_of_flowers",
+		"count": 1
+	}
+}

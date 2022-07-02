@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "|||",
+    "#|#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+     "|": {
+      "tag": "minecraft:candles"
+    }
+  },
+  "result": {
+    "item": "medieval_decorations:iron_seven_arm_candelabra"
+  }
+}

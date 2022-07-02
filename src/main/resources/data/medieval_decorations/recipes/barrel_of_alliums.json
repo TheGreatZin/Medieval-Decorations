@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:allium"
+		},
+		{
+			"item": "minecraft:allium"
+		},
+		{
+			"item": "minecraft:allium"
+		},
+		{
+			"item": "minecraft:allium"
+		},
+		{
+			"item": "minecraft:allium"
+		},
+		{
+			"item": "minecraft:allium"
+		},
+		{
+			"item": "minecraft:allium"
+		},
+		{
+			"item": "minecraft:allium"
+		},
+		{
+			"item": "medieval_decorations:barrel_planter"
+		}
+	],
+	"result": {
+		"item": "medieval_decorations:barrel_of_alliums",
+		"count": 1
+	}
+}

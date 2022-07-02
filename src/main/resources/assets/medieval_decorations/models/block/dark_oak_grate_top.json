@@ -1,0 +1,22 @@
+{
+    "ambientocclusion": false,
+	"textures": {
+		"0": "medieval_decorations:block/dark_oak_grate",
+		"1": "minecraft:block/dark_oak_planks",
+		"particle": "medieval_decorations:block/dark_oak_grate"
+	},
+	"elements": [
+		{
+			"from": [0, 14, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 2], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 2], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 2], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 2], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

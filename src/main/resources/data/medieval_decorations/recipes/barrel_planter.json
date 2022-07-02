@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "| |",
+    "|#|",
+    "|_|"
+  ],
+  "key": {
+     "#": {
+      "tag": "medieval_decorations:barrel_planter_dirts"
+    },
+     "|": {
+      "tag": "minecraft:planks"
+    },
+     "_": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "result": {
+    "item": "medieval_decorations:barrel_planter",
+    "count": 1
+  }
+}

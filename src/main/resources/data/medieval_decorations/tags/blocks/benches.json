@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"#medieval_decorations:wooden_benches",
+		"medieval_decorations:gold_bench",
+		"medieval_decorations:iron_bench"
+
+	]
+}

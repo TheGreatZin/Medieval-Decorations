@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"medieval_decorations:bone_candle_stand",
+		"medieval_decorations:diamond_candle_stand",
+		"medieval_decorations:gold_candle_stand",
+		"medieval_decorations:iron_candle_stand"
+	]
+}

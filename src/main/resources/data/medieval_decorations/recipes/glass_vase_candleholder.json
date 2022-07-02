@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #", 
+    "#0#",
+    "###"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:glass_pane"
+    },
+    "0": {
+      "item": "minecraft:candle"
+    }
+  },
+  "result": {
+    "item": "medieval_decorations:glass_vase_candleholder"
+  }
+}

@@ -1,0 +1,157 @@
+{
+
+
+	"block.medieval_decorations.barrel_of_flowers": "Barrel of Flowers",
+	"block.medieval_decorations.barrel_of_alliums": "Barrel of Alliums",
+	"block.medieval_decorations.barrel_of_azure_bluets": "Barrel of Azure Bluets",
+	"block.medieval_decorations.barrel_of_blue_orchids": "Barrel of Blue Orchids",
+	"block.medieval_decorations.barrel_of_cornflowers": "Barrel of Cornflowers",
+	"block.medieval_decorations.barrel_of_dandelions": "Barrel of Dandelions",
+	"block.medieval_decorations.barrel_of_lilac": "Barrel of Lilac",
+	"block.medieval_decorations.barrel_of_lilies_of_the_valley": "Barrel of Lilies of the Valley",
+	"block.medieval_decorations.barrel_of_oxeye_daisies": "Barrel of Oxeye Daisies",
+	"block.medieval_decorations.barrel_of_peony": "Barrel of Peony",
+	"block.medieval_decorations.barrel_of_poppies": "Barrel of Poppies",
+	"block.medieval_decorations.barrel_of_roses": "Barrel of Roses",
+	"block.medieval_decorations.barrel_of_sunflowers": "Barrel of Sunflowers",
+	"block.medieval_decorations.barrel_of_tulips": "Barrel of Tulips",
+	
+	"block.medieval_decorations.barrel_planter": "Barrel Planter",
+	
+	
+	"block.medieval_decorations.acacia_bars": "Acacia Bars",
+	"block.medieval_decorations.birch_bars": "Birch Bars",
+	"block.medieval_decorations.crimson_bars": "Crimson Bars",
+	"block.medieval_decorations.dark_oak_bars": "Dark Oak Bars",
+	"block.medieval_decorations.jungle_bars": "Jungle Bars",
+	"block.medieval_decorations.oak_bars": "Oak Bars",
+	"block.medieval_decorations.spruce_bars": "Spruce Bars",
+	"block.medieval_decorations.warped_bars": "Warped Bars",
+	"block.medieval_decorations.diamond_bars": "Diamond Bars",
+	"block.medieval_decorations.gold_bars": "Gold Bars",
+	
+	"block.medieval_decorations.acacia_grate": "Acacia Grate",
+	"block.medieval_decorations.birch_grate": "Birch Grate",
+	"block.medieval_decorations.crimson_grate": "Crimson Grate",
+	"block.medieval_decorations.dark_oak_grate": "Dark Oak Grate",
+	"block.medieval_decorations.jungle_grate": "Jungle Grate",
+	"block.medieval_decorations.oak_grate": "Oak Grate",
+	"block.medieval_decorations.spruce_grate": "Spruce Grate",
+	"block.medieval_decorations.warped_grate": "Warped Grate",
+	"block.medieval_decorations.gold_grate": "Gold Grate",
+	"block.medieval_decorations.iron_grate": "Iron Grate",
+	
+	
+	"block.medieval_decorations.acacia_bench": "Acacia Bench",
+	"block.medieval_decorations.birch_bench": "Birch Bench",
+	"block.medieval_decorations.crimson_bench": "Crimson Bench",
+	"block.medieval_decorations.dark_oak_bench": "Dark Oak Bench",
+	"block.medieval_decorations.jungle_bench": "Jungle Bench",
+	"block.medieval_decorations.oak_bench": "Oak Bench",
+	"block.medieval_decorations.spruce_bench": "Spruce Bench",
+	"block.medieval_decorations.warped_bench": "Warped Bench",
+	"block.medieval_decorations.gold_bench": "Gold Bench",
+	"block.medieval_decorations.iron_bench": "Iron Bench",
+	
+	
+	"block.medieval_decorations.stacked_books": "Pile of Books",
+	
+	
+	"block.medieval_decorations.gold_brazier": "Gold Brazier",
+	"block.medieval_decorations.iron_brazier": "Iron Brazier",
+	"block.medieval_decorations.soul_gold_brazier": "Soul Gold Brazier",
+	"block.medieval_decorations.soul_iron_brazier": "Soul Iron Brazier",
+	
+	"block.medieval_decorations.gold_fire_bowl": "Gold Fire Bowl",
+	"block.medieval_decorations.iron_fire_bowl": "Iron Fire Bowl",
+	"block.medieval_decorations.soul_gold_fire_bowl": "Soul Gold Fire Bowl",
+	"block.medieval_decorations.soul_iron_fire_bowl": "Soul Iron Fire Bowl",
+	
+	
+	"block.medieval_decorations.bone_two_arm_candelabra": "Bone Two-Arm Candelabra",
+	"block.medieval_decorations.bone_three_arm_candelabra": "Bone Three-Arm Candelabra",
+	"block.medieval_decorations.bone_five_arm_candelabra": "Bone Five-Arm Candelabra",
+	"block.medieval_decorations.bone_seven_arm_candelabra": "Bone Seven-Arm Candelabra",
+	"block.medieval_decorations.diamond_two_arm_candelabra": "Diamond Two-Arm Candelabra",
+	"block.medieval_decorations.diamond_three_arm_candelabra": "Diamond Three-Arm Candelabra",
+	"block.medieval_decorations.diamond_five_arm_candelabra": "Diamond Five-Arm Candelabra",
+	"block.medieval_decorations.diamond_seven_arm_candelabra": "Diamond Seven-Arm Candelabra",
+	"block.medieval_decorations.gold_two_arm_candelabra": "Gold Two-Arm Candelabra",
+	"block.medieval_decorations.gold_three_arm_candelabra": "Gold Three-Arm Candelabra",
+	"block.medieval_decorations.gold_five_arm_candelabra": "Gold Five-Arm Candelabra",
+	"block.medieval_decorations.gold_seven_arm_candelabra": "Gold Seven-Arm Candelabra",
+	"block.medieval_decorations.iron_two_arm_candelabra": "Iron Two-Arm Candelabra",
+	"block.medieval_decorations.iron_three_arm_candelabra": "Iron Three-Arm Candelabra",
+	"block.medieval_decorations.iron_five_arm_candelabra": "Iron Five-Arm Candelabra",
+	"block.medieval_decorations.iron_seven_arm_candelabra": "Iron Seven-Arm Candelabra",
+	
+	"block.medieval_decorations.bone_candle_stand": "Bone Candlestick",
+	"block.medieval_decorations.bone_skull_candle_stand": "Bone Skull Candlestick",
+	"block.medieval_decorations.diamond_candle_stand": "Diamond Candlestick",
+	"block.medieval_decorations.gold_candle_stand": "Gold Candlestick",
+	"block.medieval_decorations.iron_candle_stand": "Iron Candlestick",
+	
+	"block.medieval_decorations.large_candle": "Large Candle",
+	"block.medieval_decorations.white_large_candle": "White Large Candle",
+	"block.medieval_decorations.orange_large_candle": "Orange Large Candle",
+	"block.medieval_decorations.magenta_large_candle": "Magenta Large Candle",
+	"block.medieval_decorations.light_blue_large_candle": "Light Blue Large Candle",
+	"block.medieval_decorations.yellow_large_candle": "Yellow Large Candle",
+	"block.medieval_decorations.lime_large_candle": "Lime Large Candle",
+	"block.medieval_decorations.pink_large_candle": "Pink Large Candle",
+	"block.medieval_decorations.gray_large_candle": "Gray Large Candle",
+	"block.medieval_decorations.light_gray_large_candle": "Light Gray Large Candle",
+	"block.medieval_decorations.cyan_large_candle": "Cyan Large Candle",
+	"block.medieval_decorations.purple_large_candle": "Purple Large Candle",
+	"block.medieval_decorations.blue_large_candle": "Blue Large Candle",
+	"block.medieval_decorations.brown_large_candle": "Brown Large Candle",
+	"block.medieval_decorations.green_large_candle": "Green Large Candle",
+	"block.medieval_decorations.red_large_candle": "Red Large Candle",
+	"block.medieval_decorations.black_large_candle": "Black Large Candle",
+	
+	"block.medieval_decorations.gold_angel_statue_holding_candelabra": "Gold Angel Statue Holding Candelabra",
+	"block.medieval_decorations.gold_man_statue_holding_candle": "Gold Man Statue Holding Candle",
+	"block.medieval_decorations.gold_villager_statue_holding_candle": "Gold Villager Statue Holding Candle",
+	"block.medieval_decorations.iron_angel_statue_holding_candelabra": "Iron Angel Statue Holding Candelabra",
+	"block.medieval_decorations.stone_angel_statue_holding_candelabra": "Stone Angel Statue Holding Candelabra",
+	"block.medieval_decorations.stone_man_statue_holding_candle": "Stone Man Statue Holding Candle",
+	"block.medieval_decorations.stone_villager_statue_holding_candle": "Stone Villager Statue Holding Candle",
+	
+	"block.medieval_decorations.glass_vase_candleholder": "Glass Vase Candleholder",
+	"block.medieval_decorations.white_stained_glass_vase_candleholder": "White Stained Glass Vase Candleholder",
+	"block.medieval_decorations.orange_stained_glass_vase_candleholder": "Orange Stained Glass Vase Candleholder",
+	"block.medieval_decorations.magenta_stained_glass_vase_candleholder": "Magenta Stained Glass Vase Candleholder",
+	"block.medieval_decorations.light_blue_stained_glass_vase_candleholder": "Light Blue Stained Glass Vase Candleholder",
+	"block.medieval_decorations.yellow_stained_glass_vase_candleholder": "Yellow Stained Glass Vase Candleholder",
+	"block.medieval_decorations.lime_stained_glass_vase_candleholder": "Lime Stained Glass Vase Candleholder",
+	"block.medieval_decorations.pink_stained_glass_vase_candleholder": "Pink Stained Glass Vase Candleholder",
+	"block.medieval_decorations.gray_stained_glass_vase_candleholder": "Gray Stained Glass Vase Candleholder",
+	"block.medieval_decorations.light_gray_stained_glass_vase_candleholder": "Light Gray Stained Glass Vase Candleholder",
+	"block.medieval_decorations.cyan_stained_glass_vase_candleholder": "Cyan Stained Glass Vase Candleholder",
+	"block.medieval_decorations.purple_stained_glass_vase_candleholder": "Purple Stained Glass Vase Candleholder",
+	"block.medieval_decorations.blue_stained_glass_vase_candleholder": "Blue Stained Glass Vase Candleholder",
+	"block.medieval_decorations.brown_stained_glass_vase_candleholder": "Brown Stained Glass Vase Candleholder",
+	"block.medieval_decorations.green_stained_glass_vase_candleholder": "Green Stained Glass Vase Candleholder",
+	"block.medieval_decorations.red_stained_glass_vase_candleholder": "Red Stained Glass Vase Candleholder",
+	"block.medieval_decorations.black_stained_glass_vase_candleholder": "Black Stained Glass Vase Candleholder",
+	"block.medieval_decorations.mosaic_stained_glass_vase_candleholder": "Mosaic Stained Glass Vase Candleholder",
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	"block.medieval_decorations.iron_symbol_tree": "Iron Symbol Tree",
+	
+	
+
+	"itemGroup.medieval_decorations": "Medieval Decorations"
+
+}

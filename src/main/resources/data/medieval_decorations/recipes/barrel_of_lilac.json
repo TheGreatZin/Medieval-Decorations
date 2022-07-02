@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:lilac"
+		},
+		{
+			"item": "minecraft:lilac"
+		},
+		{
+			"item": "minecraft:lilac"
+		},
+		{
+			"item": "minecraft:lilac"
+		},
+		{
+			"item": "medieval_decorations:barrel_planter"
+		}
+	],
+	"result": {
+		"item": "medieval_decorations:barrel_of_lilac",
+		"count": 1
+	}
+}

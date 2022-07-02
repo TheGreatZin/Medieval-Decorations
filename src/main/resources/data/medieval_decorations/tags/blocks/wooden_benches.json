@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		"medieval_decorations:acacia_bench",
+		"medieval_decorations:birch_bench",
+		"medieval_decorations:crimson_bench",
+		"medieval_decorations:dark_oak_bench",
+		"medieval_decorations:jungle_bench",
+		"medieval_decorations:oak_bench",
+		"medieval_decorations:spruce_bench",
+		"medieval_decorations:warped_bench"	
+	]
+}

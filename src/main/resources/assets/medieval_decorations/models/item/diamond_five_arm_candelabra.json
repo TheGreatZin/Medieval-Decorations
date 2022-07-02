@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "medieval_decorations:item/diamond_five_arm_candelabra"
+  }
+}

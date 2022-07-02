@@ -1,0 +1,22 @@
+{
+	"replace": false,
+	"values": [
+		"medieval_decorations:large_candle",
+		"medieval_decorations:white_large_candle",
+		"medieval_decorations:orange_large_candle",
+		"medieval_decorations:magenta_large_candle",
+		"medieval_decorations:light_blue_large_candle",
+		"medieval_decorations:yellow_large_candle",
+		"medieval_decorations:lime_large_candle",
+		"medieval_decorations:pink_large_candle",
+		"medieval_decorations:gray_large_candle",
+		"medieval_decorations:light_gray_large_candle",
+		"medieval_decorations:cyan_large_candle",
+		"medieval_decorations:purple_large_candle",
+		"medieval_decorations:blue_large_candle",
+		"medieval_decorations:brown_large_candle",
+		"medieval_decorations:green_large_candle",
+		"medieval_decorations:red_large_candle",
+		"medieval_decorations:black_large_candle"
+	]
+}

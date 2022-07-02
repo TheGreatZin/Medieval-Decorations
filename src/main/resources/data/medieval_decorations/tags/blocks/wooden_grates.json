@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		"medieval_decorations:acacia_grate",
+		"medieval_decorations:birch_grate",
+		"medieval_decorations:crimson_grate",
+		"medieval_decorations:dark_oak_grate",
+		"medieval_decorations:jungle_grate",
+		"medieval_decorations:oak_grate",
+		"medieval_decorations:spruce_grate",
+		"medieval_decorations:warped_grate"	
+	]
+}

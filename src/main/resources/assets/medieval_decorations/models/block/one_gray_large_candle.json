@@ -1,0 +1,7 @@
+{
+  "parent": "medieval_decorations:block/template_large_candle",
+  "textures": {
+    "all": "medieval_decorations:block/gray_large_candle",
+    "particle": "minecraft:block/gray_candle"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "I I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:jungle_planks"
+    },
+     "I": {
+      "item": "minecraft:jungle_log"
+    }
+  },
+  "result": {
+    "item": "medieval_decorations:jungle_bench",
+    "count": 4
+  }
+}

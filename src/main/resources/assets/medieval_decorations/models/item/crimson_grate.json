@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "medieval_decorations:block/crimson_grate"
+  }
+}

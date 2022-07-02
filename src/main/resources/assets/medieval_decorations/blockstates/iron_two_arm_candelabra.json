@@ -1,0 +1,52 @@
+{
+	"variants": {
+		"facing=north,face=floor": {
+			"model": "medieval_decorations:block/iron_two_arm_candelabra",
+			"y": 0
+		},
+		"facing=north,face=wall": {
+			"model": "medieval_decorations:block/iron_two_arm_candelabra_wall",
+			"y": 0
+		},
+		"facing=north,face=ceiling": {
+			"model": "medieval_decorations:block/iron_two_arm_candelabra_ceiling",
+			"y": 0
+		},
+		"facing=east,face=floor": {
+			"model": "medieval_decorations:block/iron_two_arm_candelabra",
+			"y": 90
+		},
+		"facing=east,face=wall": {
+			"model": "medieval_decorations:block/iron_two_arm_candelabra_wall",
+			"y": 90
+		},
+		"facing=east,face=ceiling": {
+			"model": "medieval_decorations:block/iron_two_arm_candelabra_ceiling",
+			"y": 90
+		},
+		"facing=south,face=floor": {
+			"model": "medieval_decorations:block/iron_two_arm_candelabra",
+			"y": 180
+		},
+		"facing=south,face=wall": {
+			"model": "medieval_decorations:block/iron_two_arm_candelabra_wall",
+			"y": 180
+		},
+		"facing=south,face=ceiling": {
+			"model": "medieval_decorations:block/iron_two_arm_candelabra_ceiling",
+			"y": 180
+		},
+		"facing=west,face=floor": {
+			"model": "medieval_decorations:block/iron_two_arm_candelabra",
+			"y": 270
+		},
+		"facing=west,face=wall": {
+			"model": "medieval_decorations:block/iron_two_arm_candelabra_wall",
+			"y": 270
+		},
+		"facing=west,face=ceiling": {
+			"model": "medieval_decorations:block/iron_two_arm_candelabra_ceiling",
+			"y": 270
+		}
+	}
+}

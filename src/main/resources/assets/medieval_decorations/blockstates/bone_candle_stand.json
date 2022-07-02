@@ -1,0 +1,36 @@
+{
+	"variants": {
+		"facing=north,face=floor": {
+			"model": "medieval_decorations:block/bone_candle_stand",
+			"y": 0
+		},
+		"facing=north,face=wall": {
+			"model": "medieval_decorations:block/bone_candle_stand_wall",
+			"y": 0
+		},
+		"facing=east,face=floor": {
+			"model": "medieval_decorations:block/bone_candle_stand",
+			"y": 90
+		},
+		"facing=east,face=wall": {
+			"model": "medieval_decorations:block/bone_candle_stand_wall",
+			"y": 90
+		},
+		"facing=south,face=floor": {
+			"model": "medieval_decorations:block/bone_candle_stand",
+			"y": 180
+		},
+		"facing=south,face=wall": {
+			"model": "medieval_decorations:block/bone_candle_stand_wall",
+			"y": 180
+		},
+		"facing=west,face=floor": {
+			"model": "medieval_decorations:block/bone_candle_stand",
+			"y": 270
+		},
+		"facing=west,face=wall": {
+			"model": "medieval_decorations:block/bone_candle_stand_wall",
+			"y": 270
+		}
+	}
+}

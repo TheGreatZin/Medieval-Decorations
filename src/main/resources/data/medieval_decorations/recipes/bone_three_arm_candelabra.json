@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "|||",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bone"
+    },
+     "|": {
+      "tag": "minecraft:candles"
+    }
+  },
+  "result": {
+    "item": "medieval_decorations:bone_three_arm_candelabra"
+  }
+}

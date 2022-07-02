@@ -1,0 +1,8 @@
+{
+    "parent": "medieval_decorations:block/stacked_books_first",
+    "textures": {
+       	"bottom": "medieval_decorations:block/bottom_book_second_2",
+		"middle": "medieval_decorations:block/middle_book_second",
+		"top": "medieval_decorations:block/top_book_second"
+    }
+}

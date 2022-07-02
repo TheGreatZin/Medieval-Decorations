@@ -1,0 +1,36 @@
+{
+	"variants": {
+		"facing=north,burning=true": {
+			"model": "medieval_decorations:block/soul_gold_fire_bowl_burning",
+			"y": 0
+		},
+		"facing=north,burning=false": {
+			"model": "medieval_decorations:block/soul_gold_fire_bowl",
+			"y": 0
+		},
+		"facing=east,burning=true": {
+			"model": "medieval_decorations:block/soul_gold_fire_bowl_burning",
+			"y": 90
+		},
+		"facing=east,burning=false": {
+			"model": "medieval_decorations:block/soul_gold_fire_bowl",
+			"y": 90
+		},
+		"facing=south,burning=true": {
+			"model": "medieval_decorations:block/soul_gold_fire_bowl_burning",
+			"y": 180
+		},
+		"facing=south,burning=false": {
+			"model": "medieval_decorations:block/soul_gold_fire_bowl",
+			"y": 180
+		},
+		"facing=west,burning=true": {
+			"model": "medieval_decorations:block/soul_gold_fire_bowl_burning",
+			"y": 270
+		},
+		"facing=west,burning=false": {
+			"model": "medieval_decorations:block/soul_gold_fire_bowl",
+			"y": 270
+		}
+	}
+}

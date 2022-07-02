@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:rose_bush"
+		},
+		{
+			"item": "minecraft:rose_bush"
+		},
+		{
+			"item": "minecraft:rose_bush"
+		},
+		{
+			"item": "minecraft:rose_bush"
+		},
+		{
+			"item": "medieval_decorations:barrel_planter"
+		}
+	],
+	"result": {
+		"item": "medieval_decorations:barrel_of_roses",
+		"count": 1
+	}
+}

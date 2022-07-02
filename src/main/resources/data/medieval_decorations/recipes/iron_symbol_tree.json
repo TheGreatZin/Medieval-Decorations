@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" ' ",
+		"'#'",
+		"'#'"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:iron_ingot"
+		},
+		"'": {
+			"item": "minecraft:iron_nugget"
+		}
+	},
+	"result": {
+		"item": "medieval_decorations:iron_symbol_tree",
+		"count": 4
+	}
+}

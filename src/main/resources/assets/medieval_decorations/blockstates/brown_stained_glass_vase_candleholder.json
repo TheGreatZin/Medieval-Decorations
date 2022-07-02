@@ -1,0 +1,36 @@
+{
+	"variants": {
+		"facing=north,lit=true": {
+			"model": "medieval_decorations:block/brown_stained_glass_vase_candleholder_lit",
+			"y": 0
+		},
+		"facing=north,lit=false": {
+			"model": "medieval_decorations:block/brown_stained_glass_vase_candleholder",
+			"y": 0
+		},
+		"facing=east,lit=true": {
+			"model": "medieval_decorations:block/brown_stained_glass_vase_candleholder_lit",
+			"y": 90
+		},
+		"facing=east,lit=false": {
+			"model": "medieval_decorations:block/brown_stained_glass_vase_candleholder",
+			"y": 90
+		},
+		"facing=south,lit=true": {
+			"model": "medieval_decorations:block/brown_stained_glass_vase_candleholder_lit",
+			"y": 180
+		},
+		"facing=south,lit=false": {
+			"model": "medieval_decorations:block/brown_stained_glass_vase_candleholder",
+			"y": 180
+		},
+		"facing=west,lit=true": {
+			"model": "medieval_decorations:block/brown_stained_glass_vase_candleholder_lit",
+			"y": 270
+		},
+		"facing=west,lit=false": {
+			"model": "medieval_decorations:block/brown_stained_glass_vase_candleholder",
+			"y": 270
+		}
+	}
+}

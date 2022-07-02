@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+ 	{
+   		"item": "medieval_decorations:gold_bars"
+   	},
+   	{
+   		"item": "medieval_decorations:gold_bars"
+   	}
+  ],
+  "result": {
+    "item": "medieval_decorations:gold_grate",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"replace": false,
+	"values": [
+		"medieval_decorations:diamond_bars",
+		"medieval_decorations:gold_bars",
+		"#medieval_decorations:metal_benches",
+		"#medieval_decorations:braziers",
+		"#medieval_decorations:fire_bowls",
+		"#medieval_decorations:metal_grates",
+		"#medieval_decorations:candelabras",
+		"#medieval_decorations:candle_stands",
+		"#medieval_decorations:statue_candles"
+	]
+}

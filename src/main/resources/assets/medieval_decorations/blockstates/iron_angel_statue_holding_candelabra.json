@@ -1,0 +1,68 @@
+{
+  "variants": {
+    "facing=north,half=lower,lit=false": {
+      "model": "medieval_decorations:block/iron_angel_statue_holding_candelabra_bottom",
+      "y": 0
+    },
+    "facing=north,half=upper,lit=false": {
+      "model": "medieval_decorations:block/iron_angel_statue_holding_candelabra_top",
+      "y": 0
+    },
+    "facing=north,half=lower,lit=true": {
+      "model": "medieval_decorations:block/iron_angel_statue_holding_candelabra_bottom",
+      "y": 0
+    },
+    "facing=north,half=upper,lit=true": {
+      "model": "medieval_decorations:block/iron_angel_statue_holding_candelabra_top",
+      "y": 0
+    },
+    "facing=east,half=lower,lit=false": {
+      "model": "medieval_decorations:block/iron_angel_statue_holding_candelabra_bottom",
+      "y": 90
+    },
+    "facing=east,half=upper,lit=false": {
+      "model": "medieval_decorations:block/iron_angel_statue_holding_candelabra_top",
+      "y": 90
+    },
+    "facing=east,half=lower,lit=true": {
+      "model": "medieval_decorations:block/iron_angel_statue_holding_candelabra_bottom",
+      "y": 90
+    },
+    "facing=east,half=upper,lit=true": {
+      "model": "medieval_decorations:block/iron_angel_statue_holding_candelabra_top",
+      "y": 90
+    },
+    "facing=south,half=lower,lit=false": {
+      "model": "medieval_decorations:block/iron_angel_statue_holding_candelabra_bottom",
+      "y": 180
+    },
+    "facing=south,half=upper,lit=false": {
+      "model": "medieval_decorations:block/iron_angel_statue_holding_candelabra_top",
+      "y": 180
+    },
+    "facing=south,half=lower,lit=true": {
+      "model": "medieval_decorations:block/iron_angel_statue_holding_candelabra_bottom",
+      "y": 180
+    },
+    "facing=south,half=upper,lit=true": {
+      "model": "medieval_decorations:block/iron_angel_statue_holding_candelabra_top",
+      "y": 180
+    },
+    "facing=west,half=lower,lit=false": {
+      "model": "medieval_decorations:block/iron_angel_statue_holding_candelabra_bottom",
+      "y": 270
+    },
+    "facing=west,half=upper,lit=false": {
+      "model": "medieval_decorations:block/iron_angel_statue_holding_candelabra_top",
+      "y": 270
+    },
+    "facing=west,half=lower,lit=true": {
+      "model": "medieval_decorations:block/iron_angel_statue_holding_candelabra_bottom",
+      "y": 270
+    },
+    "facing=west,half=upper,lit=true": {
+      "model": "medieval_decorations:block/iron_angel_statue_holding_candelabra_top",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"medieval_decorations:iron_brazier",
+		"medieval_decorations:gold_brazier",
+		"medieval_decorations:soul_iron_brazier",
+		"medieval_decorations:soul_gold_brazier"
+	]
+}

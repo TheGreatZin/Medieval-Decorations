@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+   "|#|",
+    "#|#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dark_oak_planks"
+    },
+     "|": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "medieval_decorations:dark_oak_bars",
+    "count": 16
+  }
+}

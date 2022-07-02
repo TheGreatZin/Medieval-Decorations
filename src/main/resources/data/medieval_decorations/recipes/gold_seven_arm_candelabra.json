@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "|||",
+    "#|#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+     "|": {
+      "tag": "minecraft:candles"
+    }
+  },
+  "result": {
+    "item": "medieval_decorations:gold_seven_arm_candelabra"
+  }
+}

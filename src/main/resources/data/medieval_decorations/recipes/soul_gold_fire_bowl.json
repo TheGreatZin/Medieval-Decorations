@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "---"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:soul_sand"
+    },
+     "-": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "medieval_decorations:soul_gold_fire_bowl",
+    "count": 3
+  }
+}

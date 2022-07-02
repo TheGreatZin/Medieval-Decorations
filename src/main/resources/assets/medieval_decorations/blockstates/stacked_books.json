@@ -1,0 +1,652 @@
+{
+	"variants": {
+		"facing=north,books=1": [
+			{
+				"model": "medieval_decorations:block/stacked_books_first",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_2",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_3",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_4",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_5",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_6",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_7",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_8",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_9",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_10",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_11",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_12",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_13",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_14",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_15",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_2",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_3",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_4",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_5",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_6",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_7",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_8",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_9",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_2",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_3",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_4",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_5",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_6",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_7",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_8",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_9",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_10",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_11",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_12",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_13",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_fourth",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_fifth",
+				"y": 0
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_sixth",
+				"y": 0
+			}
+		],
+		"facing=east,books=1": [
+			{
+				"model": "medieval_decorations:block/stacked_books_first",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_2",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_3",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_4",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_5",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_6",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_7",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_8",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_9",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_10",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_11",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_12",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_13",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_14",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_15",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_2",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_3",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_4",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_5",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_6",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_7",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_8",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_9",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_2",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_3",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_4",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_5",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_6",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_7",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_8",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_9",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_10",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_11",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_12",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_13",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_fourth",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_fifth",
+				"y": 90
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_sixth",
+				"y": 90
+			}
+		],
+		"facing=south,books=1": [
+			{
+				"model": "medieval_decorations:block/stacked_books_first",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_2",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_3",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_4",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_5",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_6",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_7",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_8",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_9",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_10",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_11",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_12",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_13",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_14",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_15",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_2",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_3",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_4",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_5",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_6",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_7",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_8",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_9",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_2",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_3",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_4",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_5",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_6",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_7",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_8",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_9",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_10",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_11",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_12",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_13",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_fourth",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_fifth",
+				"y": 180
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_sixth",
+				"y": 180
+			}
+		],
+		"facing=west,books=1": [
+			{
+				"model": "medieval_decorations:block/stacked_books_first",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_2",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_3",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_4",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_5",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_6",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_7",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_8",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_9",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_10",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_11",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_12",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_13",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_14",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_first_15",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_2",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_7",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_8",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_9",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_3",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_4",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_5",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_second_6",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_2",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_3",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_4",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_5",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_6",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_7",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_8",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_9",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_10",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_11",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_12",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_third_13",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_fourth",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_fifth",
+				"y": 270
+			},
+			{
+				"model": "medieval_decorations:block/stacked_books_sixth",
+				"y": 270
+			}
+		]
+	}
+}

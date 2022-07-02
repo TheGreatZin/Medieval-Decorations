@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:dandelion"
+		},
+		{
+			"item": "minecraft:dandelion"
+		},
+		{
+			"item": "minecraft:dandelion"
+		},
+		{
+			"item": "minecraft:dandelion"
+		},
+		{
+			"item": "minecraft:dandelion"
+		},
+		{
+			"item": "minecraft:dandelion"
+		},
+		{
+			"item": "minecraft:dandelion"
+		},
+		{
+			"item": "minecraft:dandelion"
+		},
+		{
+			"item": "medieval_decorations:barrel_planter"
+		}
+	],
+	"result": {
+		"item": "medieval_decorations:barrel_of_dandelions",
+		"count": 1
+	}
+}

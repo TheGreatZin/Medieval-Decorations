@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "|||",
+    "&|&",
+    "'#'"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "'": {
+      "item": "minecraft:gold_nugget"
+    },
+    "&": {
+      "item": "minecraft:gold_ingot"
+    },
+     "|": {
+      "tag": "minecraft:candles"
+    }
+  },
+  "result": {
+    "item": "medieval_decorations:diamond_five_arm_candelabra"
+  }
+}

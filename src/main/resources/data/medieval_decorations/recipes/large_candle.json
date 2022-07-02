@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ", 
+    " 0 ",
+    " 0 "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "0": {
+      "item": "minecraft:honeycomb"
+    }
+  },
+  "result": {
+    "item": "medieval_decorations:large_candle"
+  }
+}

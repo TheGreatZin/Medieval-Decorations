@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"medieval_decorations:iron_fire_bowl",
+		"medieval_decorations:gold_fire_bowl",
+		"medieval_decorations:soul_iron_fire_bowl",
+		"medieval_decorations:soul_gold_fire_bowl"
+	]
+}

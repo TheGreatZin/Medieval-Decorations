@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:azure_bluet"
+		},
+		{
+			"item": "minecraft:azure_bluet"
+		},
+		{
+			"item": "minecraft:azure_bluet"
+		},
+		{
+			"item": "minecraft:azure_bluet"
+		},
+		{
+			"item": "minecraft:azure_bluet"
+		},
+		{
+			"item": "minecraft:azure_bluet"
+		},
+		{
+			"item": "minecraft:azure_bluet"
+		},
+		{
+			"item": "minecraft:azure_bluet"
+		},
+		{
+			"item": "medieval_decorations:barrel_planter"
+		}
+	],
+	"result": {
+		"item": "medieval_decorations:barrel_of_azure_bluets",
+		"count": 1
+	}
+}

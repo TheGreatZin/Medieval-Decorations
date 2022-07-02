@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "I I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:oak_planks"
+    },
+     "I": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "item": "medieval_decorations:oak_bench",
+    "count": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "|",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+     "|": {
+      "tag": "minecraft:candles"
+    }
+  },
+  "result": {
+    "item": "medieval_decorations:diamond_candle_stand"
+  }
+}

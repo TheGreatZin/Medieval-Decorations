@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom": {
+      "model": "medieval_decorations:block/dark_oak_grate_bottom"
+    },
+    "half=top": {
+      "model": "medieval_decorations:block/dark_oak_grate_top"
+    }
+  }
+}

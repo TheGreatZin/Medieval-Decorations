@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:orange_tulip"
+		},
+		{
+			"item": "minecraft:orange_tulip"
+		},
+		{
+			"item": "minecraft:red_tulip"
+		},
+		{
+			"item": "minecraft:red_tulip"
+		},
+		{
+			"item": "minecraft:pink_tulip"
+		},
+		{
+			"item": "minecraft:pink_tulip"
+		},
+		{
+			"item": "minecraft:white_tulip"
+		},
+		{
+			"item": "minecraft:white_tulip"
+		},
+		{
+			"item": "medieval_decorations:barrel_planter"
+		}
+	],
+	"result": {
+		"item": "medieval_decorations:barrel_of_tulips",
+		"count": 1
+	}
+}

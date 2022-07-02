@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:blue_orchid"
+		},
+		{
+			"item": "minecraft:blue_orchid"
+		},
+		{
+			"item": "minecraft:blue_orchid"
+		},
+		{
+			"item": "minecraft:blue_orchid"
+		},
+		{
+			"item": "minecraft:blue_orchid"
+		},
+		{
+			"item": "minecraft:blue_orchid"
+		},
+		{
+			"item": "minecraft:blue_orchid"
+		},
+		{
+			"item": "minecraft:blue_orchid"
+		},
+		{
+			"item": "medieval_decorations:barrel_planter"
+		}
+	],
+	"result": {
+		"item": "medieval_decorations:barrel_of_blue_orchids",
+		"count": 1
+	}
+}

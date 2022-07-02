@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:cornflower"
+		},
+		{
+			"item": "minecraft:cornflower"
+		},
+		{
+			"item": "minecraft:cornflower"
+		},
+		{
+			"item": "minecraft:cornflower"
+		},
+		{
+			"item": "minecraft:cornflower"
+		},
+		{
+			"item": "minecraft:cornflower"
+		},
+		{
+			"item": "minecraft:cornflower"
+		},
+		{
+			"item": "minecraft:cornflower"
+		},
+		{
+			"item": "medieval_decorations:barrel_planter"
+		}
+	],
+	"result": {
+		"item": "medieval_decorations:barrel_of_cornflowers",
+		"count": 1
+	}
+}

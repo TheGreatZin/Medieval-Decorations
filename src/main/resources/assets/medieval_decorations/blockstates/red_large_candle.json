@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "candles=1,lit=false": {
+      "model": "medieval_decorations:block/one_red_large_candle"
+    },
+    "candles=1,lit=true": {
+      "model": "medieval_decorations:block/one_red_large_candle_lit"
+    },
+    "candles=2,lit=false": {
+      "model": "medieval_decorations:block/two_red_large_candles"
+    },
+    "candles=2,lit=true": {
+      "model": "medieval_decorations:block/two_red_large_candles_lit"
+    },
+    "candles=3,lit=false": {
+      "model": "medieval_decorations:block/three_red_large_candles"
+    },
+    "candles=3,lit=true": {
+      "model": "medieval_decorations:block/three_red_large_candles_lit"
+    },
+    "candles=4,lit=false": {
+      "model": "medieval_decorations:block/four_red_large_candles"
+    },
+    "candles=4,lit=true": {
+      "model": "medieval_decorations:block/four_red_large_candles_lit"
+    }
+  }
+}
