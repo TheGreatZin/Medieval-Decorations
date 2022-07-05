@@ -38,5 +38,5 @@ The mod can be downloaded only from [**CurseForge**](). All the available versio
 </a>
 
 <a href="https://discord.gg/RRShNVmc">
-<img alt="Discord" src="https://img.shields.io/discord/991653013301243935?color=darkcyan&label=%20&logo=Discord&logoColor=white&style=plastic" height="22">
+<img alt="Discord" src="https://img.shields.io/discord/991653013301243935?color=gray&label=%20&logo=Discord&logoColor=white&style=plastic" height="22">
 </a>
