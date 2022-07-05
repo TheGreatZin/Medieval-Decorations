@@ -30,16 +30,16 @@ The mod can be downloaded only from [**CurseForge**](). All the available versio
 </sup>
 
 <a href="https://github.com/TheGreatZin/Medieval-Decorations/blob/main/LICENSE.txt">
-<img alt="License" src="https://img.shields.io/badge/license-LGPLv3-brightgreen?style=plastic" height="22"
+<img alt="License" src="https://img.shields.io/badge/license-LGPLv3-brightgreen?style=for-the-badge" height="25"
 </a>
 
 <a href="https://github.com/TheGreatZin/Medieval-Decorations/issues">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/TheGreatZin/Medieval-Decorations?color=FF0000&style=plastic" height="22">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/TheGreatZin/Medieval-Decorations?color=FF0000&style=for-the-badge" height="25">
 </a>
 
-<a href="https://www.patreon.com/TheGreatZIN">
+<a href="https://patreon.com/TheGreatZIN"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DTheGreatZIN%26type%3Dpatrons&style=for-the-badge" alt="Support me on Patreon" />
 </a>
 
 <a href="https://discord.gg/RRShNVmc">
-<img alt="Discord" src="https://img.shields.io/discord/991653013301243935?color=gray&label=%20&logo=Discord&logoColor=white&style=plastic" height="22">
+<img alt="Discord" src="https://img.shields.io/discord/991653013301243935?color=gray&label=%20&logo=Discord&logoColor=white&style=for-the-badge" height="25">
 </a>
