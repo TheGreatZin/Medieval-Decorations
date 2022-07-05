@@ -42,5 +42,5 @@ The mod can be downloaded only from [**CurseForge**](). All the available versio
 </a>
     
 [![Downloads](http://cf.way2muchnoise.eu/versions/585081.svg)](https://minecraft.curseforge.com/projects/medieval-paintings/files)
-[![Downloads](http://cf.way2muchnoise.eu/585081.svg)](https://minecraft.curseforge.com/projects/medieval-paintings/files)
+[![Downloads](http://cf.way2muchnoise.eu/full_585081_downloads.svg)](https://minecraft.curseforge.com/projects/medieval-paintings/files)
 
