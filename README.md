@@ -40,3 +40,7 @@ The mod can be downloaded only from [**CurseForge**](). All the available versio
 <a href="https://discord.gg/RRShNVmc">
 <img alt="Discord" src="https://img.shields.io/discord/991653013301243935?color=gray&label=%20&logo=Discord&logoColor=white&style=for-the-badge" height="25">
 </a>
+    
+[![Downloads](http://cf.way2muchnoise.eu/versions/585081.svg)](https://minecraft.curseforge.com/projects/medieval-paintings/files)
+[![Downloads](http://cf.way2muchnoise.eu/585081.svg)](https://minecraft.curseforge.com/projects/medieval-paintings/files)
+
