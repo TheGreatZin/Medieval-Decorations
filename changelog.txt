@@ -1,1 +1,13 @@
 
+-v0.0.0121010006
+	- mod base
+	- added config (incomplete)
+	- added blocks
+		- barrel planter and barrels of flowers
+		- bars and grates
+		- benches (incomplete)
+		- pile of books (incomplete)
+		- braziers and fire bowls (incomplete)
+		- candles (incomplete)
+    
+------------------------------------------------
