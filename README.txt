@@ -17,5 +17,9 @@ would make a place seem more epic and powerful. Feel free to play around and mak
 The mod can be downloaded from CurseForge(). All the available versions are in there as well.
 
 [Links]
-CurseForge - (https://www.curseforge.com/minecraft/mc-mods/medieval-decorations)
-Github - (https://github.com/TheGreatZin/Medieval-Decorations)
+YouTube - https://www.youtube.com/channel/UCH5jS1COXwctDX72og2wt_g
+CurseForge - https://www.curseforge.com/members/the_great_zin/projects
+GitHub - https://github.com/TheGreatZin
+Patreon - https://www.patreon.com/TheGreatZIN
+Planet Minecraft - https://www.planetminecraft.com/member/thezin/
+Twitter - https://twitter.com/The_Great_ZIN 
