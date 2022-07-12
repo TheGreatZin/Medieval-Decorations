@@ -40,6 +40,14 @@ The mod can be downloaded only from [**CurseForge**](). All the available versio
 <a href="https://discord.gg/RRShNVmc">
 <img alt="Discord" src="https://img.shields.io/discord/991653013301243935?color=gray&label=%20&logo=Discord&logoColor=white&style=for-the-badge" height="25">
 </a>
+    
+<a href="https://twitter.com/The_Great_ZIN">
+<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?color=6699CC&style=for-the-badge&logo=twitter&logoColor=white" height="25">
+</a>
+    
+<a href="https://www.patreon.com/TheGreatZIN">
+<img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="25">
+</a>
 
 [![Downloads](http://cf.way2muchnoise.eu/versions/632858.svg)](https://www.curseforge.com/minecraft/mc-mods/medieval-decorations/files)
 [![Downloads](http://cf.way2muchnoise.eu/full_632858_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/medieval-decorations)
