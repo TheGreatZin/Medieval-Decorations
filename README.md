@@ -45,8 +45,8 @@ The mod can be downloaded only from [**CurseForge**](). All the available versio
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?color=6699CC&style=for-the-badge&logo=twitter&logoColor=white" height="25">
 </a>
     
-<a href="https://www.patreon.com/TheGreatZIN">
-<img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="25">
+<a href="https://ko-fi.com/thegreatzin/tiers">
+<img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="25">
 </a>
 
 [![Downloads](http://cf.way2muchnoise.eu/versions/632858.svg)](https://www.curseforge.com/minecraft/mc-mods/medieval-decorations/files)
