@@ -37,7 +37,7 @@ The mod can be downloaded only from [**CurseForge**](). All the available versio
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/TheGreatZin/Medieval-Decorations?color=FF0000&style=for-the-badge" height="25">
 </a>
 
-<a href="https://discord.gg/RRShNVmc">
+<a href="https://discord.gg/JZjvnhCbsG">
 <img alt="Discord" src="https://img.shields.io/discord/991653013301243935?color=8080ff&label=%20&logo=Discord&logoColor=white&style=for-the-badge" height="25">
 </a>
     
