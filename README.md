@@ -49,8 +49,6 @@ The mod can be downloaded only from [**CurseForge**](). All the available versio
 <img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="25">
 </a>
     
-    
-[![Downloads](https://cf.way2muchnoise.eu/author/TheGreatZIN.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/medieval-decorations)
 [![Downloads](http://cf.way2muchnoise.eu/full_632858_downloads.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/medieval-decorations)
 [![Downloads](http://cf.way2muchnoise.eu/versions/632858.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/medieval-decorations/files)
 
