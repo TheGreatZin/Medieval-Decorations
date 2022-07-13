@@ -55,4 +55,3 @@ The mod can be downloaded only from [**CurseForge**](). All the available versio
     
 [![Downloads](http://cf.way2muchnoise.eu/full_632858_downloads.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/medieval-decorations)
 [![Downloads](http://cf.way2muchnoise.eu/versions/632858.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/medieval-decorations/files)
-
