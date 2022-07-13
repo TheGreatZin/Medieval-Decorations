@@ -38,11 +38,15 @@ The mod can be downloaded only from [**CurseForge**](). All the available versio
 </a>
 
 <a href="https://discord.gg/RRShNVmc">
-<img alt="Discord" src="https://img.shields.io/discord/991653013301243935?color=gray&label=%20&logo=Discord&logoColor=white&style=for-the-badge" height="25">
+<img alt="Discord" src="https://img.shields.io/discord/991653013301243935?color=8080ff&label=%20&logo=Discord&logoColor=white&style=for-the-badge" height="25">
 </a>
     
 <a href="https://twitter.com/The_Great_ZIN">
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?color=6699CC&style=for-the-badge&logo=twitter&logoColor=white" height="25">
+</a>
+    
+<a href="https://twitter.com/The_Great_ZIN">
+<img alt="Twitter" src="https://img.shields.io/badge/YouTube-B8121D?style=for-the-badge&logo=youtube&logoColor=white" height="25">
 </a>
     
 <a href="https://ko-fi.com/thegreatzin/tiers">
