@@ -46,7 +46,7 @@ The mod can be downloaded only from [**CurseForge**](). All the available versio
 </a>
     
 <a href="https://www.youtube.com/channel/UCH5jS1COXwctDX72og2wt_g">
-<img alt="Twitter" src="https://img.shields.io/badge/YouTube-B8121D?style=for-the-badge&logo=youtube&logoColor=white" height="25">
+<img alt="YouTube" src="https://img.shields.io/badge/YouTube-B8121D?style=for-the-badge&logo=youtube&logoColor=white" height="25">
 </a>
     
 <a href="https://ko-fi.com/thegreatzin/tiers">
