@@ -23,7 +23,7 @@ In the mod you can find tons of medieval-themed decorations, which can be used t
 </sup>
 
 ## Installation
-The mod can be downloaded only from [**CurseForge**](). All the available versions are in there as well.
+The mod can be downloaded only from [**CurseForge**](https://www.curseforge.com/minecraft/mc-mods/medieval-decorations). All the available versions are in there as well.
 
 <sup>
 <hr>
