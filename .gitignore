@@ -23,3 +23,8 @@ run
 
 # Files from Forge MDK
 forge*changelog.txt
+*.md
+src/main/resources/LICENSE.txt
+*.md
+README.md
+README.md

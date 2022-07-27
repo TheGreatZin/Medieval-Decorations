@@ -1,17 +1,24 @@
 
 1.18.2 changelog
+-----------------------------------------------------------
 
 0.0
 ====
+	-v0.0.0
+		- patchouli integration
+		- medieval decorations tab sorting system
+
 	-v0.0.0121010006
 		- mod base
-		- added config (incomplete)
-		- added blocks
+		- config (incomplete)
+			- medieval_decorations-common.toml
+		- blocks
 			- barrel planter and barrels of flowers
 			- bars and grates
 			- benches (incomplete)
 			- pile of books (incomplete)
 			- braziers and fire bowls (incomplete)
-			- candles (incomplete)
+			- large candles
+			- candelabras (incomplete)
     
 -----------------------------------------------------------
