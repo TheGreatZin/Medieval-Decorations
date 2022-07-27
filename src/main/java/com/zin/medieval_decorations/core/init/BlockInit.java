@@ -161,7 +161,7 @@ public final class BlockInit {
    public static final RegistryObject<StatueHoldingCandle> STONE_VILLAGER_STATUE_HOLDING_CANDLE = registerBlock("stone_villager_statue_holding_candle", () -> new StatueHoldingCandle(BlockBehaviour.Properties.of(Material.STONE).requiresCorrectToolForDrops().strength(2.0F, 6.0F).noOcclusion()), MedievalDecorations.MEDIEVAL_DECORATIONS_TAB, STONE_VILLAGER_STATUE_HOLDING_CANDLE_ID);
 
    
-/* Vases */   
+/* Vases */
    public static final RegistryObject<GlassVaseCandleholderBlock> GLASS_VASE_CANDLEHOLDER = registerBlock("glass_vase_candleholder", () -> new GlassVaseCandleholderBlock(BlockBehaviour.Properties.of(Material.GLASS).strength(0.3F).sound(SoundType.GLASS).noOcclusion()), MedievalDecorations.MEDIEVAL_DECORATIONS_TAB, GLASS_VASE_CANDLEHOLDER_ID);
    public static final RegistryObject<GlassVaseCandleholderBlock> WHITE_STAINED_GLASS_VASE_CANDLEHOLDER = registerBlock("white_stained_glass_vase_candleholder", () -> new GlassVaseCandleholderBlock(BlockBehaviour.Properties.of(Material.GLASS, DyeColor.WHITE).strength(0.3F).sound(SoundType.GLASS).noOcclusion()), MedievalDecorations.MEDIEVAL_DECORATIONS_TAB, WHITE_STAINED_GLASS_VASE_CANDLEHOLDER_ID);
    public static final RegistryObject<GlassVaseCandleholderBlock> ORANGE_STAINED_GLASS_VASE_CANDLEHOLDER = registerBlock("orange_stained_glass_vase_candleholder", () -> new GlassVaseCandleholderBlock(BlockBehaviour.Properties.of(Material.GLASS, DyeColor.ORANGE).strength(0.3F).sound(SoundType.GLASS).noOcclusion()), MedievalDecorations.MEDIEVAL_DECORATIONS_TAB, ORANGE_STAINED_GLASS_VASE_CANDLEHOLDER_ID);
