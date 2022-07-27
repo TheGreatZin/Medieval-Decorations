@@ -25,10 +25,8 @@ run
 forge*changelog.txt
 *.md
 src/main/resources/LICENSE.txt
-changelog.txt
-LICENSE.txt
-README.md
-changelog.txt
-LICENSE.txt
-README.md
 src/main/resources/README.txt
+src/main/resources/changelog.txt
+changelog.txt
+LICENSE.txt
+README.md
