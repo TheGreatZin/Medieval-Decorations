@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		"medieval_decorations:acacia_bars",
+		"medieval_decorations:birch_bars",
+		"medieval_decorations:crimson_bars",
+		"medieval_decorations:dark_oak_bars",
+		"medieval_decorations:jungle_bars",
+		"medieval_decorations:oak_bars",
+		"medieval_decorations:spruce_bars",
+		"medieval_decorations:warped_bars"
+	]
+}

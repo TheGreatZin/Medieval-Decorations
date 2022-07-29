@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"#medieval_decorations:bars/wooden_bars",
+		"medieval_decorations:diamond_bars",
+		"medieval_decorations:gold_bars"		
+	]
+}

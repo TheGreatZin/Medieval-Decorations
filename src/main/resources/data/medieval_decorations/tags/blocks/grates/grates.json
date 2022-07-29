@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"#medieval_decorations:grates/metal_grates",
+		"#medieval_decorations:grates/wooden_grates"
+	]
+}

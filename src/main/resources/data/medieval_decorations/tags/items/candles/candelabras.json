@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		"medieval_decorations:bone_two_arm_candelabra",
+		"medieval_decorations:bone_three_arm_candelabra",
+		"medieval_decorations:bone_five_arm_candelabra",
+		"medieval_decorations:bone_seven_arm_candelabra",
+		"medieval_decorations:diamond_two_arm_candelabra",
+		"medieval_decorations:diamond_three_arm_candelabra",
+		"medieval_decorations:diamond_five_arm_candelabra",
+		"medieval_decorations:diamond_seven_arm_candelabra",
+		"medieval_decorations:gold_two_arm_candelabra",
+		"medieval_decorations:gold_three_arm_candelabra",
+		"medieval_decorations:gold_five_arm_candelabra",
+		"medieval_decorations:gold_seven_arm_candelabra",
+		"medieval_decorations:iron_two_arm_candelabra",
+		"medieval_decorations:iron_three_arm_candelabra",
+		"medieval_decorations:iron_five_arm_candelabra",
+		"medieval_decorations:iron_seven_arm_candelabra"
+	]
+}

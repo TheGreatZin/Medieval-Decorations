@@ -9,7 +9,9 @@ import net.minecraft.client.renderer.ItemBlockRenderTypes;
 import net.minecraft.client.renderer.RenderType;
 import net.minecraft.client.renderer.entity.EntityRenderers;
 import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber.Bus;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
@@ -147,9 +149,11 @@ public class ClientModEvents {
 		ItemBlockRenderTypes.setRenderLayer(BlockInit.BLACK_STAINED_GLASS_VASE_CANDLEHOLDER.get(), RenderType.cutout().translucent());
 		ItemBlockRenderTypes.setRenderLayer(BlockInit.MOSAIC_STAINED_GLASS_VASE_CANDLEHOLDER.get(), RenderType.cutout().translucent());
 
-		
-		
         EntityRenderers.register(EntityInit.SEAT.get(), SeatRenderer::new);
+        
+		if (!ModList.get().isLoaded("filters")) {
+			MinecraftForge.EVENT_BUS.register(new CreativeScreenEvents());
+		}
 
 	}
 

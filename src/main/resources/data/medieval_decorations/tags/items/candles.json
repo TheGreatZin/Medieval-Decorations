@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"#medieval_decorations:candles/candelabras",
+		"#medieval_decorations:candles/candle_stands",
+		"#medieval_decorations:candles/large_candles"
+	]
+}

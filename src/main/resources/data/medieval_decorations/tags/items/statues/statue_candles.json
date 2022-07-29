@@ -1,0 +1,12 @@
+{
+	"replace": false,
+	"values": [
+		"medieval_decorations:gold_angel_statue_holding_candelabra",
+		"medieval_decorations:gold_man_statue_holding_candle",
+		"medieval_decorations:gold_villager_statue_holding_candle",
+		"medieval_decorations:iron_angel_statue_holding_candelabra",
+		"medieval_decorations:stone_angel_statue_holding_candelabra",
+		"medieval_decorations:stone_man_statue_holding_candle",
+		"medieval_decorations:stone_villager_statue_holding_candle"
+	]
+}
