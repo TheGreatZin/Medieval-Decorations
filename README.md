@@ -30,27 +30,27 @@ The mod can be downloaded only from [**CurseForge**](https://www.curseforge.com/
 </sup>
 
 <a href="https://github.com/TheGreatZin/Medieval-Decorations/blob/main/LICENSE.txt">
-<img alt="License" src="https://img.shields.io/badge/license-LGPLv3-brightgreen?style=for-the-badge" height="25"
+<img alt="License" src="https://img.shields.io/badge/license-LGPLv3-brightgreen?style=for-the-badge&color=brown&logoColor=lightbrown" height="25"
 </a>
 
 <a href="https://github.com/TheGreatZin/Medieval-Decorations/issues">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/TheGreatZin/Medieval-Decorations?color=FF0000&style=for-the-badge" height="25">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/TheGreatZin/Medieval-Decorations?color=brown&logoColor=lightbrown&style=for-the-badge" height="25">
 </a>
 
 <a href="https://discord.gg/JZjvnhCbsG">
-<img alt="Discord" src="https://img.shields.io/discord/991653013301243935?color=8080ff&label=%20&logo=Discord&logoColor=white&style=for-the-badge" height="25">
+<img alt="Discord" src="https://img.shields.io/discord/991653013301243935?color=8080ff&label=%20&logo=Discord&logoColor=lightbrown&color=brown&style=for-the-badge" height="25">
 </a>
     
 <a href="https://twitter.com/The_Great_ZIN">
-<img alt="Twitter" src="https://img.shields.io/badge/Twitter-00ccff?color=0099cc&style=for-the-badge&logo=twitter&logoColor=white" height="25">
+<img alt="Twitter" src="https://img.shields.io/badge/Twitter-00ccff?color=0099cc&style=for-the-badge&logo=twitter&logoColor=lightbrown&color=brown" height="25">
 </a>
     
 <a href="https://www.youtube.com/channel/UCH5jS1COXwctDX72og2wt_g">
-<img alt="YouTube" src="https://img.shields.io/badge/YouTube-B8121D?style=for-the-badge&logo=youtube&logoColor=white" height="25">
+<img alt="YouTube" src="https://img.shields.io/badge/YouTube-B8121D?style=for-the-badge&logo=youtube&logoColor=lightbrown&color=brown" height="25">
 </a>
     
 <a href="https://ko-fi.com/thegreatzin/tiers">
-<img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="25">
+<img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=lightbrown&color=brown" height="25">
 </a>
     
 [![Downloads](http://cf.way2muchnoise.eu/full_632858_downloads.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/medieval-decorations)
